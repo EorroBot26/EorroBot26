@@ -21,7 +21,6 @@
   <a href="https://youtube.com/channel/UCE9Ch9dhJllTDu7wDfQMgRQ"><img src="https://img.shields.io/badge/YouTube-eorro-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCE9Ch9dhJllTDu7wDfQMgRQ" /><br>
   <a name=eorro&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/EorroBot26"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
-  <a href="https://youtube.com/channel/UCdzWwbApjkyODby7_MoRYlA"><img src="https://img.shields.io/youtube/channel/subscribers/UCdzWwbApjkyODby7_MoRYlA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=zeeoneofc&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
 
