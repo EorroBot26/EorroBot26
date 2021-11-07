@@ -19,6 +19,9 @@
   <a name=eorro&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/EorroBot26"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 
+</p>
+
+------
 ### Hightligt AMV 🎮
 <p align="center">
   <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
