@@ -5,9 +5,9 @@
 
 <p align="center">
 
-- 👼 My name is Eorro
-- 🗣️ I am 16 years old 
-- 🔭 I am not programmer
+- 😁 My name is Eorro
+- 🚀 I am 16 years old 
+- 🙏 I am not programmer
 
 </p>
 
