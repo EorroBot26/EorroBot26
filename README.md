@@ -1,6 +1,5 @@
 <h1 align="center">Hello Guys <img src="https://images.app.goo.gl/Vg3krLVHVupUX55U8" width="40px" alt=""><br></h1>
 <p align="center">
-  <img src="https://images.app.goo.gl/Vg3krLVHVupUX55U8" />
 </p>
 
 <p align="center">
