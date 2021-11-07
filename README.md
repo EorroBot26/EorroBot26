@@ -20,7 +20,7 @@
   <a name=eorro&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://github.com/EorroBot26"><img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" /> 
 
-### Pubg mobile 🎮
+### Hightligt AMV 🎮
 <p align="center">
   <img src="https://github.com/zeeoneofc/zeeoneofc/blob/zeeoneofc/2047a1zwq1.gif" />
 </p>
@@ -31,6 +31,8 @@
 <p align="center">
   <a href="https://open.spotify.com/user/hbv7yzic965h9y82w194av0cz" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
+
+------
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
