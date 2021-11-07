@@ -32,6 +32,8 @@
 </p>
 
 ------
+### Visual and Code
+
 <p align="center">
     <img src="https://img.shields.io/badge/OS-Linux-blue?&logo=Linux" />
     <img src="https://img.shields.io/badge/OS-Windows-blue?&logo=Windows" />
