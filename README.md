@@ -4,9 +4,9 @@
 
 <p align="center">
 
-- 😁 My name is Eorro
+- 😁 My name is Rafael
 - 🚀 I am 16 years old 
-- 🙏 I am not programmer
+- 👑 I will guide you in my world
 
 </p>
 
